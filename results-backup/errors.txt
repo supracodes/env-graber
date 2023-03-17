@@ -1,0 +1,165 @@
+.env_10.save You must have a key = value near tank1.idemcloud.ru at line 1
+.env_11.save You must have a key = value near APP_URL at line 5
+.env_163.example You must have a key = value near Host: host.inventivhub.com at line 6
+.env_19.html You must have a key = value near <!DOCTYPE html> at line 1
+.env_3.save You must have a key = value near tank1.idemcloud.ru at line 1
+.env_35.html You must have a key = value near <!doctype html> at line 1
+.env_4.save You must have a key = value near tank1.idemcloud.ru at line 1
+.env_447.example You must have a key = value near Host: host.inventivhub.com at line 6
+.env_747.example You must have a key = value near Host: host.inventivhub.com at line 6
+9.2.html You must have a key = value near <!DOCTYPE html> at line 1
+_1005.env You must have a key = value near <?php at line 1
+_1010.env Key can only contain alphanumeric and underscores and can not start with a number: //DB_DATABASE near //DB_DATABASE at line 10
+_1014.env You must have a key = value near GOOGLE_RECAPTCHA_SECRET6Lc0WJ4kAAAAAEyM9-qAqiDRd2tLJuQBQytNhLlM at line 12
+_1018.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_105.env Key can only contain alphanumeric and underscores and can not start with a number: //DB_HOST near //DB_HOST at line 4
+_1052.env Missing end " quote near "October at line 1
+_1115.env You must have a key = value near 8.68 at line 39
+_1117.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_1169.env Variable has not been defined: PUSHER_APP_CLUSTER near ${PUSHER_APP_CLUSTER} at line 38
+_1212.env You must have a key = value near die(); at line 1
+_1234.env Key can only contain alphanumeric and underscores and can not start with a number: G+_CLIENT_ID near G+_CLIENT_ID at line 53
+_1254.env You must have a key = value near 8.68 at line 39
+_1323.env Missing end " quote near "October at line 1
+_1329.env You must have a key = value near FNZIA_MODE at line 39
+_1359.env You must have a key = value near server: 192.185.223.74 at line 23
+_1437.env You must have a key = value near die(); at line 1
+_1463.env Key can only contain alphanumeric and underscores and can not start with a number: G-RECAPCHA-GOOGLE-KEY near G-RECAPCHA-GOOGLE-KEY at line 36
+_1494.env Missing end " quote near "October at line 1
+_1509.env You must have a key = value near tank1.idemcloud.ru at line 1
+_1513.env Key can only contain alphanumeric and underscores and can not start with a number: ﻿APP_NAME near ﻿APP_NAME at line 1
+_1541.env You must have a key = value near <IfModule mod_rewrite.c> at line 1
+_1565.env Variable has not been defined: APP_NAME near ${APP_NAME} at line 29
+_18.env Key can only contain alphanumeric and underscores and can not start with a number: ﻿APP_NAME near ﻿APP_NAME at line 1
+_211.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_212.env Variable has not been defined: !@^~22YrT$^&(22)^ near Fl@#${!@^~22YrT$^&(22)^}*$FI256GuR%OCT at line 31
+_216.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_2160.html You must have a key = value near <!DOCTYPE html> at line 1
+_2161.html You must have a key = value near <!DOCTYPE html> at line 1
+_2164.html You must have a key = value near <!DOCTYPE html> at line 1
+_2167.html You must have a key = value near <!DOCTYPE html> at line 1
+_2168.html You must have a key = value near <!DOCTYPE html> at line 1
+_2169.html You must have a key = value near <!DOCTYPE html> at line 1
+_217.env Variable has not been defined: PUSHER_APP_CLUSTER near ${PUSHER_APP_CLUSTER} at line 38
+_2170.html You must have a key = value near <!DOCTYPE html> at line 1
+_2172.html You must have a key = value near <!DOCTYPE html> at line 1
+_2173.html You must have a key = value near <!DOCTYPE html> at line 1
+_2174.html You must have a key = value near <!DOCTYPE html> at line 1
+_2175.html You must have a key = value near <!DOCTYPE html> at line 1
+_2177.html You must have a key = value near <!DOCTYPE html> at line 1
+_2178.html You must have a key = value near <!DOCTYPE html> at line 1
+_2179.html You must have a key = value near <!DOCTYPE html> at line 1
+_2180.html You must have a key = value near <!DOCTYPE html> at line 1
+_2181.html You must have a key = value near <!DOCTYPE html> at line 1
+_2182.html You must have a key = value near <!DOCTYPE html> at line 1
+_2184.html You must have a key = value near <!DOCTYPE html> at line 1
+_2185.html You must have a key = value near <!DOCTYPE html> at line 1
+_2186.html You must have a key = value near <!DOCTYPE html> at line 1
+_2187.html You must have a key = value near <!DOCTYPE html> at line 1
+_2188.html You must have a key = value near <!DOCTYPE html> at line 1
+_2189.html You must have a key = value near <!DOCTYPE html> at line 1
+_2190.html You must have a key = value near <!DOCTYPE html> at line 1
+_2193.html You must have a key = value near <!DOCTYPE html> at line 1
+_2194.html You must have a key = value near <!DOCTYPE html> at line 1
+_2195.html You must have a key = value near <!DOCTYPE html> at line 1
+_2196.html You must have a key = value near <!DOCTYPE html> at line 1
+_2197.html You must have a key = value near <!DOCTYPE html> at line 1
+_2198.html You must have a key = value near <!DOCTYPE html> at line 1
+_2200.html You must have a key = value near <!DOCTYPE html> at line 1
+_2203.html You must have a key = value near <!DOCTYPE html> at line 1
+_2206.html You must have a key = value near <!DOCTYPE html> at line 1
+_2209.html You must have a key = value near <!DOCTYPE html> at line 1
+_2211.html You must have a key = value near <!DOCTYPE html> at line 1
+_2213.html You must have a key = value near <!DOCTYPE html> at line 1
+_2216.html You must have a key = value near <!DOCTYPE html> at line 1
+_2217.html You must have a key = value near <!DOCTYPE html> at line 1
+_2219.html You must have a key = value near <!DOCTYPE html> at line 1
+_2220.html You must have a key = value near <!DOCTYPE html> at line 1
+_2223.html You must have a key = value near <!DOCTYPE html> at line 1
+_2224.html You must have a key = value near <!DOCTYPE html> at line 1
+_2225.html You must have a key = value near <!DOCTYPE html> at line 1
+_2227.html You must have a key = value near <!DOCTYPE html> at line 1
+_223.env Variable has not been defined: APP_NAME near ${APP_NAME} at line 28
+_2231.html You must have a key = value near <!DOCTYPE html> at line 1
+_2232.html You must have a key = value near <!DOCTYPE html> at line 1
+_2233.html You must have a key = value near <!DOCTYPE html> at line 1
+_2236.html You must have a key = value near <!DOCTYPE html> at line 1
+_2238.html You must have a key = value near <!DOCTYPE html> at line 1
+_2240.html You must have a key = value near <!DOCTYPE html> at line 1
+_2242.html You must have a key = value near <!DOCTYPE html> at line 1
+_2244.html You must have a key = value near <!DOCTYPE html> at line 1
+_2246.html You must have a key = value near <!DOCTYPE html> at line 1
+_2249.html You must have a key = value near <!DOCTYPE html> at line 1
+_2250.html You must have a key = value near <!DOCTYPE html> at line 1
+_2255.html You must have a key = value near <!DOCTYPE html> at line 1
+_2257.html You must have a key = value near <!DOCTYPE html> at line 1
+_2260.html You must have a key = value near <!DOCTYPE html> at line 1
+_2263.html You must have a key = value near <!DOCTYPE html> at line 1
+_2265.html You must have a key = value near <!DOCTYPE html> at line 1
+_2266.html You must have a key = value near <!DOCTYPE html> at line 1
+_2267.html You must have a key = value near <!DOCTYPE html> at line 1
+_2268.html You must have a key = value near <!DOCTYPE html> at line 1
+_2271.html You must have a key = value near <!DOCTYPE html> at line 1
+_2272.html You must have a key = value near <!DOCTYPE html> at line 1
+_2274.html You must have a key = value near <!DOCTYPE html> at line 1
+_2275.html You must have a key = value near <!DOCTYPE html> at line 1
+_2276.html You must have a key = value near <!DOCTYPE html> at line 1
+_2277.html You must have a key = value near <!DOCTYPE html> at line 1
+_2279.html You must have a key = value near <!DOCTYPE html> at line 1
+_2286.html You must have a key = value near <!DOCTYPE html> at line 1
+_2288.html You must have a key = value near <!DOCTYPE html> at line 1
+_2292.html You must have a key = value near <!DOCTYPE html> at line 1
+_2296.html You must have a key = value near <!DOCTYPE html> at line 1
+_2297.html You must have a key = value near <!DOCTYPE html> at line 1
+_2298.html You must have a key = value near <!DOCTYPE html> at line 1
+_2300.html You must have a key = value near <!DOCTYPE html> at line 1
+_2307.html You must have a key = value near <!DOCTYPE html> at line 1
+_2308.html You must have a key = value near <!DOCTYPE html> at line 1
+_2315.html You must have a key = value near <!DOCTYPE html> at line 1
+_2316.html You must have a key = value near <!DOCTYPE html> at line 1
+_2317.html You must have a key = value near <!DOCTYPE html> at line 1
+_2318.html You must have a key = value near <!DOCTYPE html> at line 1
+_2319.html You must have a key = value near <!DOCTYPE html> at line 1
+_2320.html You must have a key = value near <!DOCTYPE html> at line 1
+_2322.html You must have a key = value near <!DOCTYPE html> at line 1
+_2325.html You must have a key = value near <!DOCTYPE html> at line 1
+_2326.html You must have a key = value near <!DOCTYPE html> at line 1
+_2333.html You must have a key = value near <!DOCTYPE html> at line 1
+_2334.html You must have a key = value near <!DOCTYPE html> at line 1
+_2337.html You must have a key = value near <!DOCTYPE html> at line 1
+_2338.html You must have a key = value near <!DOCTYPE html> at line 1
+_2409.html You must have a key = value near <!doctype html> at line 1
+_2411.html You must have a key = value near <!doctype html> at line 1
+_243.env Key can only contain alphanumeric and underscores and can not start with a number: ;DB_HOST near ;DB_HOST at line 4
+_2664.html You must have a key = value near <!DOCTYPE html> at line 1
+_2736.html You must have a key = value near <!DOCTYPE html> at line 1
+_2737.html You must have a key = value near <!DOCTYPE html> at line 1
+_2756.html Key can only contain alphanumeric and underscores and can not start with a number: <!DOCTYPE html><html lang near <!DOCTYPE html><html lang at line 1
+_2814.html You must have a key = value near <!DOCTYPE html> at line 1
+_305.env Key can only contain alphanumeric and underscores and can not start with a number: ;DB_HOST near ;DB_HOST at line 4
+_318.env Key can only contain alphanumeric and underscores and can not start with a number: ﻿APP_NAME near ﻿APP_NAME at line 1
+_3510.env Key can only contain alphanumeric and underscores and can not start with a number: database.default.hostname near database.default.hostname at line 42
+_3518.env Key can only contain alphanumeric and underscores and can not start with a number: ;MAIL_DRIVER near ;MAIL_DRIVER at line 11
+_3537.env Key can only contain alphanumeric and underscores and can not start with a number: app.baseURL near app.baseURL at line 20
+_357.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_362.env You must have a key = value near <IfModule mod_rewrite.c> at line 1
+_383.env Missing end " quote near "The at line 25
+_414.env You must have a key = value near tank1.idemcloud.ru at line 1
+_418.env Variable has not been defined: APP_NAME near ${APP_NAME} at line 17
+_424.env You must have a key = value near tank1.idemcloud.ru at line 1
+_427.env Key can only contain alphanumeric and underscores and can not start with a number: ﻿APP_NAME near ﻿APP_NAME at line 1
+_43.env Key can only contain alphanumeric and underscores and can not start with a number: //DB_DATABASE near //DB_DATABASE at line 11
+_582.env Variable has not been defined: PUSHER_APP_KEY near ${PUSHER_APP_KEY} at line 39
+_657.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_681.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_733.env You must have a key = value near MAIL_FROM_ADDRESS at line 30
+_74.env You must have a key = value near production at line 1
+_77.env You must have a key = value near develop at line 1
+_798.env Key can only contain alphanumeric and underscores and can not start with a number: FEATURES.CACHED_YANDEX_CLIENT_ENABLED near FEATURES.CACHED_YANDEX_CLIENT_ENABLED at line 6
+_82.env Variable has not been defined: !@^~22YrT$^&(22)^ near Fl@#${!@^~22YrT$^&(22)^}*$FI256GuR%OCT at line 31
+_84.env Key can only contain alphanumeric and underscores and can not start with a number: app.baseURL near app.baseURL at line 20
+_876.env You must have a key = value near tank1.idemcloud.ru at line 1
+_895.env Missing end " quote near "October at line 1
+_896.env Missing end ' quote near 'smtp@wonderads.vn at line 23
+_905.env Key can only contain alphanumeric and underscores and can not start with a number: //DB_DATABASE near //DB_DATABASE at line 11
+example file_get_contents(): Read of 12288 bytes failed with errno=21 Is a directory
